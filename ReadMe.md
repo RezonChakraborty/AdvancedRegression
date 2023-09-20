@@ -33,4 +33,4 @@
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
 ## Contact
-Created by [@RezonChakraborty] - feel free to contact me!
+Created by @RezonChakraborty - feel free to contact me!
